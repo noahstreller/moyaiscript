@@ -12,3 +12,6 @@ python but its 🗿
 this is obviously not a real programming language, all it does is convert python code to moyai and run it
 
 use an utf-8-compatible terminal for the best experience
+
+# credits
+special thanks to [Silvio Sarikos](https://github.com/SilvioSarikos123)
